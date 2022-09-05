@@ -28,8 +28,7 @@ params:
     - location
     - cfp
     - deadline
-    - instructions
-    #- contact
+    - contact
 
   # Titles which you can translate to other languages
   Titles:
@@ -40,10 +39,9 @@ params:
     speakers: "Speakers"
     schedule: "Schedule"
     deadline: "Important Dates"
-    instructions: "Instructions for Authors"
     # sponsors: "Sponsors"
     # partners: "Partners"
-    # contact: "Contact"
+    contact: "Instructions for Authors"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
@@ -86,8 +84,8 @@ params:
     workshopdate: "November 01, 2022 (anywhere on earth)"
     submissionsite: "https://easychair.org/conferences/?conf=spatialepi22"
     
-  instructions:
-    As SpatialEpi papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found here: "https://sigspatial2022.sigspatial.org/camera-ready/". Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit.
+  contact:
+    As SpatialEpi papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at "https://sigspatial2022.sigspatial.org/camera-ready/". Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit.
 
   speakers:
     # - name: "Amira Roess"
