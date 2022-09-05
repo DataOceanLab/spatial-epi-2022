@@ -28,6 +28,7 @@ params:
     - location
     - cfp
     - deadline
+    - instructions
     #- contact
 
   # Titles which you can translate to other languages
@@ -39,6 +40,7 @@ params:
     speakers: "Speakers"
     schedule: "Schedule"
     deadline: "Important Dates"
+    instructions: "Instructions for Authors"
     # sponsors: "Sponsors"
     # partners: "Partners"
     # contact: "Contact"
@@ -84,7 +86,7 @@ params:
     workshopdate: "November 01, 2022 (anywhere on earth)"
     submissionsite: "https://easychair.org/conferences/?conf=spatialepi22"
     
-  Instructions for authors:
+  instructions:
     As SpatialEpi papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found here: "https://sigspatial2022.sigspatial.org/camera-ready/". Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit.
 
   speakers:
