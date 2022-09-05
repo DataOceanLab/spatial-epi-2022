@@ -85,7 +85,7 @@ params:
     submissionsite: "https://easychair.org/conferences/?conf=spatialepi22"
     
   contact:
-    As SpatialEpi papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at "https://sigspatial2022.sigspatial.org/camera-ready/". Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit.
+    text: As SpatialEpi papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process. Submission details can be found at "https://sigspatial2022.sigspatial.org/camera-ready/". Following the main-conference, we also allow full papers to have a two-page appendix beyond the ten pages limit.
 
   speakers:
     # - name: "Amira Roess"
