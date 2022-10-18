@@ -112,6 +112,8 @@ params:
        authors: "Wen Ye, Song Gao"
        file: "paper_1.pdf"
        time: "11-01 09:50"
+      - title: "Break" 
+      time: "11-01 10:15"
      - title: "Microscopic Modeling of Spatiotemporal Epidemic Dynamics"
      authors: "Tilemachos Pechlivanoglou, Gian Alix, Nina Yanin, Jing Li, Farzaneh Heidari, Manos Papagelis"
      time: "11-01 10:45"
