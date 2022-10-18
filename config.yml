@@ -88,8 +88,8 @@ params:
   #contact:
   
   speakers:
-     - name: "Matthew Scotch"
-    #   photo: "https://chhs.gmu.edu/sites/g/files/yyqcgq286/files/profile-headshot/200-Amira%20Roess.jpg"
+     - name: "Matthew Scotch, College of Health Solutions, Arizona State University"
+       photo: "https://datascience.cancer.gov/sites/default/files/2019-10/Matthew%20Scotch%2C%20Ph.D%2C%20MPH_WMD.jpg"
        company: "Arizona State University"
        talk: 
          title: "Genomic epidemiology and bioinformatics for evolution and spread of RNA viruses"
