@@ -82,17 +82,17 @@ params:
     submission: "September 06, 2022 (anywhere on earth) (extended)"
     notification: "September 28, 2022 (anywhere on earth)"
     camera ready: "To be announced"
-    workshopdate: "November 01, 2022 (anywhere on earth)"
+    workshopdate: "November 01, 2022 (9AM-1PM Seattle Time)"
     submissionsite: "https://easychair.org/conferences/?conf=spatialepi22"
     
   #contact:
   
   speakers:
-    # - name: "Amira Roess"
+     - name: "Matthew Scotch"
     #   photo: "https://chhs.gmu.edu/sites/g/files/yyqcgq286/files/profile-headshot/200-Amira%20Roess.jpg"
-    #   company: "George Mason University"
-    #   talk: 
-    #     title: "The practicalities of multiple disciplinary research: lessons from COVID-19"
+       company: "Arizona State University"
+       talk: 
+         title: "Genomic epidemiology and bioinformatics for evolution and spread of RNA viruses"
     #     abstrct: ""
     #     bio: "Dr. Roess is a professor of Global Health and Epidemiology at George Mason University's College of Health and Human Services. Her expertise is in infectious diseases epidemiology, multi-disciplinary and multi-species field research and evaluating interventions to reduce the transmission and impact of infectious diseases. Dr. Roess leads several longitudinal studies including on the emergence and transmission of Campylobacter (with support from The Bill and Melinda Gates Foundation), MERS-CoV (with support from the US National Science Foundation), development of COVID-19 in the first year of life (with support from NIH), and the development of the microbiome during the first year of life. She is also working on a number of other COVID-19 projects, including examining infection disparities and use of mHealth (especially apps) to enhance surveillance and contact tracing. Dr. Roess holds a PhD in global disease epidemiology and control from Johns Hopkins University. Her current studies are in the US, Bangladesh, Egypt, and Ethiopia. Prior to joining academia, Dr. Roess served as the Science Director for the Pew Commission on Industrial Food Animal Production at Johns Hopkins, and was an Epidemic Intelligence Service (EIS) officer at the CDC. She has served as consultant for the United States Agency for International Development, the World Bank, and Westat Inc. She has a master degree from the UMDNJ/ Rutgers University School of Public Health."
     #     href: "#schedule"
